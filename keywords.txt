@@ -1,0 +1,15 @@
+DataSeriesPod	KEYWORD1
+restart	KEYWORD2
+update	KEYWORD2
+getAverageValue	KEYWORD2
+getMaximumValue	KEYWORD2
+getMinimumValue	KEYWORD2
+getFirstValue	KEYWORD2
+getMostRecentValue	KEYWORD2
+getRange	KEYWORD2
+getCentralValue KEYWORD2
+getSampleSize	KEYWORD2
+getName	KEYWORD2
+getDuration KEYWORD2
+setName	KEYWORD2
+toString	KEYWORD2
